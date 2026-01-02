@@ -1,7 +1,5 @@
 # ============================================================
 # PROJET IA – MAINTENANCE PRÉDICTIVE
-# PHASE 3 : MODÉLISATION
-# PHASE 4 : ÉVALUATION (RMSE)
 # ============================================================
 
 import pandas as pd
